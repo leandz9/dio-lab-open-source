@@ -80,7 +80,9 @@
 
 2. ✔️[Oracle Cloud Infrastructure 2023 Certified Architect Associate    ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E4E1AE1EFB561B21224C6AD50209CE24233AD6518AE3946EA13C0597C804F02)
 
-3. ✔️[Oracle Cloud Infrastructure 2023 Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D50B8730DE349729CCF220FC4BDA9F3B60C521B9F9D9AE9CEDC9B4CDFD440378)
+3. ✔️[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=584EA797929553647BB69B48F9F3E94A9F0A67D4B16BF168B2B14F8077620F30)
+
+4. ✔️[Oracle Cloud Infrastructure 2023 Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D50B8730DE349729CCF220FC4BDA9F3B60C521B9F9D9AE9CEDC9B4CDFD440378)
 
 
 <br>
