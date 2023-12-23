@@ -73,7 +73,7 @@
 
 # 📜Certificados
 
-## 🧠💻Certificações -  Oracle - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/cloud.oracle.com.svg">     
+## 🧠💻Certificações - <img align="center" alt="Leandro-Certificações" height="30" width="40" src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/cloud.oracle.com.svg"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://www.svgrepo.com/show/305696/amazonaws.svg"> - <img align="center" alt="Leandro-oracle" height="30" width="40" src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png">
 <br>
 
 1. ✔️[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D6DE181B3EA9D0816FC03D04E386D96627C3A5B6ACFCE75E4B649982ACCFC6C8)
@@ -84,5 +84,8 @@
 
 4. ✔️[Oracle Cloud Infrastructure 2023 Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D50B8730DE349729CCF220FC4BDA9F3B60C521B9F9D9AE9CEDC9B4CDFD440378)
 
+5. ✔️[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f53e1efd-fcbd-4416-8a8a-bbb41400d2e4/linked_in_profile)
+
+6. ✔️[Full Stack Observability Practitioner](https://credentials.newrelic.com/66d53cd2-0764-4844-841a-8f7d4a9cc501)
 
 <br>
